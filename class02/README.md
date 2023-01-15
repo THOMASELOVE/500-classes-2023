@@ -8,6 +8,10 @@ links for everything | deadlines | expectations | zoom, submissions | downloads 
 
 To come.
 
+## Notes from the 431-432 Sequence
+
+If you need them, the [431 Notes from Fall 2022 are here](https://thomaselove.github.io/431-notes/), and the [432 Notes for Spring 2023 are here](https://thomaselove.github.io/432-notes/).
+
 ## Learning about Quarto (and making the switch from R Markdown)
 
 See the resources in the [Class 01 README](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class01).
