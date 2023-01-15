@@ -7,3 +7,7 @@ links for everything | deadlines | expectations | zoom, submissions | downloads 
 # Today's Agenda
 
 To come.
+
+## Learning about Quarto (and making the switch from R Markdown)
+
+See the resources in the [Class 01 README](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class01).
