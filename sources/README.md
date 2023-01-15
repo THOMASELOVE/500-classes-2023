@@ -12,7 +12,7 @@ As the semester progresses, we are going to read a book together that you'll nee
 
 Many additional sources will be presented and referenced in class, and those are gathered below, along with other references that I've used in the past. I expect you will read some, but not all of these items, depending on what is most useful to you. The PDF files [are available here](https://github.com/THOMASELOVE/500-2021/tree/master/sources/articles). Some are password-protected. The password will be revealed at the first class.
 
-- Abramson John, Chapter 2 "[Spinning the Evidence](https://github.com/THOMASELOVE/500-2022/blob/main/sources/articles/Abramson-OverdosedAmerica-chapter2.pdf)" from *Overdosed America*
+- Abramson John, Chapter 2 "[Spinning the Evidence](articles/Abramson-OverdosedAmerica-chapter2.pdf)" from *Overdosed America*
 - Ahmed Ali et al. (including Love TE) 2006 [Outcomes in ambulatory chronic systolic and diastolic heart failure](https://github.com/THOMASELOVE/500-2022/blob/main/sources/articles/Ahmed%20et%20al%202006%20Am%20Heart%20J.pdf). *American Heart Journal*
 - Ahmed Ali et al. (including Love TE) 2006 [Effects of Digoxin on Morbidity and Mortality in Diastolic Heart Failure: THe Ancillary Digitalis Investigation Group Trial](https://github.com/THOMASELOVE/500-2022/blob/main/sources/articles/Ahmed%20et%20al%202006%20Circulation.pdf) *Circulation*
 - Ahmed Ali et al. (including Love TE) 2012 [Outcomes in younger and older adults with chronic advanced systolic heart failure: A propensity-matched study](https://github.com/THOMASELOVE/500-2022/blob/main/sources/articles/Ahmed%20et%20al%202012%20Int%20J%20Card.pdf) *International Journal of Cardiology*
