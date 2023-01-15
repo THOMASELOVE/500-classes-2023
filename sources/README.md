@@ -10,7 +10,7 @@ As the semester progresses, we are going to read a book together that you'll nee
 
 ## Other References and Resources
 
-Many additional sources will be presented and referenced in class, and those are gathered below, along with other references that I've used in the past. I expect you will read some, but not all of these items, depending on what is most useful to you. The PDF files [are available here](https://github.com/THOMASELOVE/500-2021/tree/master/sources/articles). Some are password-protected. The password will be revealed at the first class.
+Many additional sources will be presented and referenced in class, and those are gathered below, along with other references that I've used in the past. I expect you will read some, but not all of these items, depending on what is most useful to you. The PDF files [are available here](articles). Some are password-protected. The password will be revealed at the first class.
 
 - Abramson John, Chapter 2 "[Spinning the Evidence](articles/Abramson-OverdosedAmerica-chapter2.pdf)" from *Overdosed America*
 - Ahmed Ali et al. (including Love TE) 2006 [Outcomes in ambulatory chronic systolic and diastolic heart failure](https://github.com/THOMASELOVE/500-2022/blob/main/sources/articles/Ahmed%20et%20al%202006%20Am%20Heart%20J.pdf). *American Heart Journal*
