@@ -17,17 +17,19 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Logistics and Reminders
 
-1. Please read the [Syllabus](https://thomaselove.github.io/500-2022-syllabus/) and familiarize yourself with the [Course Website](https://thomaselove.github.io/500), the Shared Google Drive (which you can see from your CWRU Google account as *500 Spring 2022 Dr Love and Students*), and [Canvas](https://canvas.case.edu/) so that if you have any questions or problems getting started, we can settle them quickly.
-    - Questions should be posted to **500-help** at **case dot edu**, where Wyatt and I will see them. 
-2. [Lab 01](https://github.com/THOMASELOVE/500-2022/tree/main/labs/lab1) is due next Thursday 2022-01-19 at 9 PM.
-3. The final word on all deadlines is the [Course Calendar](https://thomaselove.github.io/500/calendar.html). All deliverables for the entire semester are listed.
+1. Please read the [Syllabus](https://thomaselove.github.io/500-syllabus-2023/) and familiarize yourself with the [Course Website](https://thomaselove.github.io/500-2023/), the Shared Google Drive (which you can see from your CWRU Google account as *500 Spring 2023 Dr Love and Students*), and [Canvas](https://canvas.case.edu/) so that if you have any questions or problems getting started, we can settle them quickly.
+    - Questions should be emailed directly to me.
+2. The course assignments include 5 labs, some essays, and a semester-long project with multiple elements. Complete instructions are available for all assignments at the [course website](https://thomaselove.github.io/500-2023/).
+    - [Lab 0](https://thomaselove.github.io/500-2023/lab0.html) is worth your time and attention over the next week, so that the real Labs will be less daunting, and so that you can shake out your R installation/updating/skills.
+    - [Lab 1](https://thomaselove.github.io/500-2023/lab1.html) is due Wednesday 2022-02-01 at 7 PM.
+3. The final word on all deadlines is the [Course Calendar](https://thomaselove.github.io/500-2023/calendar.html). All deliverables for the entire semester are listed.
 4. We expect you to attend all classes to facilitate our discussions (which will be a bigger part of the second half of the course.) All 500 classes are video-recorded, and the recordings will be archived in the Zoom section of [Canvas](https://canvas.case.edu). See our Shared Drive for details.
 
-![](https://github.com/THOMASELOVE/500-2022/blob/main/classes/class01/figs/lancet-tw01.PNG)
+![](figs/lancet-tw01.PNG)
 
-![](https://github.com/THOMASELOVE/500-2022/blob/main/classes/class01/figs/lancet-tw02.PNG)
+![](figs/lancet-tw02.PNG)
 
-![](https://github.com/THOMASELOVE/500-2022/blob/main/classes/class01/figs/lancet-tw03.PNG)
+![](figs/lancet-tw03.PNG)
 
 ## References from Today's Class
 
@@ -77,7 +79,7 @@ Here are some suggestions:
 
 ## One Last Thing
 
-Need help? Contact us at **500-help** at **case dot edu** with any questions. We want to hear from you!
+Need help? Contact me at **Thomas dot Love** at **case dot edu** with any questions. I want to hear from you!
 
-![](https://github.com/THOMASELOVE/500-2022/blob/main/classes/class01/figs/phd_staring.PNG)
+![](figs/phd_staring.PNG)
 
