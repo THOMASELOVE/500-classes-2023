@@ -4,9 +4,46 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
 links for everything | deadlines | expectations | zoom, submissions | downloads | to read | `Thomas` dot `Love` at `case` dot `edu`
 
-# Today's Agenda
+## Today's Slides
 
-To come.
+Class | Date | PDF | Quarto .qmd | Recording
+:---: | :--------: | :------: | :------: | :-------------:
+01 | 2023-01-19 | **[Slides 01](https://github.com/THOMASELOVE/500-slides-2023/blob/main/slides01.pdf)** | **[Code 01](https://github.com/THOMASELOVE/500-slides-2023/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+
+## Welcome to 500!
+
+- Instructor: Thomas E. Love, Ph.D., Professor of Medicine and of Population and Quantitative Health Sciences, CWRU.
+- Office Hours: By appointment, or via email. Email address is **Thomas dot Love at case dot edu**.
+
+## Logistics and Reminders
+
+1. Please read the [Syllabus](https://thomaselove.github.io/500-2022-syllabus/) and familiarize yourself with the [Course Website](https://thomaselove.github.io/500), the Shared Google Drive (which you can see from your CWRU Google account as *500 Spring 2022 Dr Love and Students*), and [Canvas](https://canvas.case.edu/) so that if you have any questions or problems getting started, we can settle them quickly.
+    - Questions should be posted to **500-help** at **case dot edu**, where Wyatt and I will see them. 
+2. [Lab 01](https://github.com/THOMASELOVE/500-2022/tree/main/labs/lab1) is due next Thursday 2022-01-19 at 9 PM.
+3. The final word on all deadlines is the [Course Calendar](https://thomaselove.github.io/500/calendar.html). All deliverables for the entire semester are listed.
+4. We expect you to attend all classes to facilitate our discussions (which will be a bigger part of the second half of the course.) All 500 classes are video-recorded, and the recordings will be archived in the Zoom section of [Canvas](https://canvas.case.edu). See our Shared Drive for details.
+
+![](https://github.com/THOMASELOVE/500-2022/blob/main/classes/class01/figs/lancet-tw01.PNG)
+
+![](https://github.com/THOMASELOVE/500-2022/blob/main/classes/class01/figs/lancet-tw02.PNG)
+
+![](https://github.com/THOMASELOVE/500-2022/blob/main/classes/class01/figs/lancet-tw03.PNG)
+
+## References from Today's Class
+
+Articles posted on our [Sources page](https://github.com/THOMASELOVE/500-2022/tree/main/sources)
+
+- Concato John et al. 2000 [Randomized, Controlled Trials, Observational Studies and the Hierarchy of Research Designs](https://github.com/THOMASELOVE/500-2022/blob/main/sources/articles/Concato%20Shah%20and%20Horwitz%202000%20OS%20vs%20RCTs%20and%20Hierarchy%20of%20Research%20Design.pdf) *New England Journal of Medicine*
+- Gum Patricia A Thamailarasan Maran Watanabe Junko et al. 2001 [Aspirin Use and All-Cause Mortality among Patients being Evaluated for Known or Suspected Coronary Artery Disease](https://github.com/THOMASELOVE/500-2022/blob/main/sources/articles/Gum%202001%20JAMA%20Aspirin%20Use%20Propensity%20Analysis.pdf) *JAMA* 2001 286(10): 1187-1194.
+- Smith Gordon C S and Pell Jill P 2003 [Parachute use to prevent death and major trauma related to gravitational challenge: Systematic review of randomized controlled trials](https://github.com/THOMASELOVE/500-2022/blob/main/sources/articles/Smith%20and%20Pell%202003%20BMJ%20Parachutes.pdf) *The BMJ*
+
+You might be interested as well in [The Book of Why](http://bayes.cs.ucla.edu/WHY/) by Judea Pearl and Dana Mackenzie in 2018.
+
+Other articles I refer to in the slides, if you're interested in tracking down further details...
+
+- Multiple risk factor intervention trial. Risk factor changes and mortality results. Multiple Risk Factor Intervention Trial Research Group. *JAMA* 1982 Sep 24;248(12):1465-77. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7050440/)
+- [USPSTF Grade Definitions](https://www.uspreventiveservicestaskforce.org/Page/Name/grade-definitions) including links to definitions prior to July 2012.
+- Veterans Administration Coronary Artery Bypass Surgery Cooperative Study Group. Eleven-year survival in the Veterans Administration randomized trial of coronary bypass surgery for stable angina. *N Engl J Med* 1984 Nov 22;311(21):1333-9. doi: 10.1056/NEJM198411223112102. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6333636/)
 
 ## Notes from the 431-432 Sequence
 
@@ -37,3 +74,10 @@ Here are some suggestions:
     - Lyndon Walker: [Create beautiful documents with Quarto and R](https://www.youtube.com/watch?v=y5VcxMOnj3M) (29 minutes)
     - Mine Çetinkaya-Rundel: [Hello, Quarto!](https://www.youtube.com/watch?v=YVa5cdkypbw)
     - Ted Laderas on [Quarto/R Markdown: What's Different?](https://www.youtube.com/watch?v=xC6I5OVOnKI) (28 minutes)
+
+## One Last Thing
+
+Need help? Contact us at **500-help** at **case dot edu** with any questions. We want to hear from you!
+
+![](https://github.com/THOMASELOVE/500-2022/blob/main/classes/class01/figs/phd_staring.PNG)
+
