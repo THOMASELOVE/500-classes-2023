@@ -37,6 +37,12 @@ Need help? Contact me with your questions. I want to hear from you!
 
 ![](figs/lancet-tw03.PNG)
 
+## "Welcome to 500" Survey
+
+I have so far received surveys from n = 11 people of the 12-13 who are taking the course. Thanks! Here are [a few summaries](survey-summary.md).
+
+If you haven't done the survey, do it today at <https://bit.ly/500-welcome-2023>.
+
 ## References from Today's Class
 
 Articles posted on our [Sources page](https://github.com/THOMASELOVE/500-classes-2023/tree/main/sources)
