@@ -1,6 +1,6 @@
 # Feedback on the "Welcome to 500" Survey
 
-n = 11, as of 2023-01-18 at 10:26 PM
+n = 12, as of 2023-01-19 at 7:14 AM
 
 # How comfortable are you with R?
 
@@ -8,13 +8,13 @@ n = 11, as of 2023-01-18 at 10:26 PM
 
 1 | 2 | 3 | 4 to 6 | Mean | SD
 ---: | ---: | ---: | :---: | ---: | ---: 
-0 | 3 | 5 | 3 | 3.3 | 1.3
+0 | 4 | 5 | 3 | 3.2 | 1.3
 
 # How comfortable are you with Quarto and R Markdown?
 
 Response | Count
 :-----------------------------------------------: | --:
-I am comfortable with R Markdown, but haven't used Quarto much (or at all) | 6
+I am comfortable with R Markdown, but haven't used Quarto much (or at all) | 7
 I can use R Markdown, but I'm not comfortable. | 5
 
 # Why are you taking this course? What do you hope to learn from it?
@@ -30,21 +30,25 @@ I can use R Markdown, but I'm not comfortable. | 5
 - I want to become an expert at designing observational studies, identifying sources of bias or inaccurate/embellished inferences/associations/conclusions, and communicating my work with correct terminology
 - Matching. Better critique of observational studies. 
 - I enjoy your courses and teaching style, and want to learn more about observational studies and propensity analyses.
+- Ways to compare effectiveness of treatments when not assigned at random. 
 
 # Tell us something interesting or fun (or both) about you.
 
+Here are the 12 responses from students, with one response added by Dr. Love.
+
 1. I am a musician (drummer) and play in a local band. 
-2. I got married on October 1st! 
-3. I have fish.
-4. I am pivoting my career into type one diabetes research. 
-5. I love puzzles and have completed more than 70 different escape rooms.
-6. I recently started learning how to ice skate.
-7. I spend my free time playing racket sports (ping pong, pickleball, tennis.)
-8. I was an extra in a movie.
-9. I was once attacked by a Koala.
-10. I went to Ireland over winter break.
-11. My family and I do the New York Times crossword puzzle together four days a week (Thursday - Sunday.)
-12. My best friend is my dog, Teddy.
+2. I am pivoting my career into type one diabetes research. 
+3. I got married on October 1st! 
+4. I have fish.
+5. I have a poor sense of self-awareness, so I am not able to think of anything fun about myself.
+6. I love puzzles and have completed more than 70 different escape rooms.
+7. I recently started learning how to ice skate.
+8. I spend my free time playing racket sports (ping pong, pickleball, tennis.)
+9. I was an extra in a movie.
+10. I was once attacked by a Koala.
+11. I went to Ireland over winter break.
+12. My family and I do the New York Times crossword puzzle together four days a week (Thursday - Sunday.)
+13. My best friend is my dog, Teddy.
 
 # Your Questions, My Answers
 
