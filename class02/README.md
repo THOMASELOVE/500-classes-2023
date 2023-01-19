@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
 links for everything | deadlines | expectations | zoom, submissions | downloads | to read | `Thomas` dot `Love` at `case` dot `edu`
 
+![](https://imgs.xkcd.com/comics/methodology_trial.png) from <https://xkcd.com/2726>
+
 # Today's Agenda
 
 To come.
