@@ -8,7 +8,7 @@ links for everything | deadlines | expectations | zoom, submissions | downloads 
 
 Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
-01 | 2023-01-19 | **[Slides 01](https://github.com/THOMASELOVE/500-slides-2023/blob/main/slides01.pdf)** | **[Code 01](https://github.com/THOMASELOVE/500-slides-2023/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+01 | 2023-01-19 | **[Slides 01](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides01.pdf)** | **[Code 01](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## Welcome to 500!
 
