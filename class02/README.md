@@ -16,11 +16,12 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. Today we'll start by discussing Lucy D'Agostino McGowan's [February 2017 blog post](https://www.kdnuggets.com/2017/02/hill-data-scientist-xkcd-story.html) "[Causation or Correlation: Explaining Hill Criteria using `xkcd`](https://www.kdnuggets.com/2017/02/hill-data-scientist-xkcd-story.html)."
     - It was inspired by Roger Peng and Hilary Parker's [Not So Standard Deviations podcast, Episode 28](http://nssdeviations.com/episode-28-writing-is-a-lot-harder-than-just-talking).
-2. The Hormone Replacement Therapy Story
-3. Tools for Assessing Causal Effects
-4. Defining and Motivating the Propensity Score
-5. Matching using the Propensity Score: The Key Ideas
-6. Discussion of Rosenbaum, Chapters 1-2
+2. Then I'll ask you to tell me a little about how your review of Lab 0 went.
+3. The Hormone Replacement Therapy Story
+4. Tools for Assessing Causal Effects
+5. Defining and Motivating the Propensity Score
+6. Matching using the Propensity Score: The Key Ideas
+7. Discussion of Rosenbaum, Chapters 1-2
 
 ## References from Today's Class
 
@@ -45,17 +46,16 @@ Other articles I refer to in the slides, if you're interested in tracking down f
 - Yaffe K Sawaya G Lieberburg I Grady D Estrogen therapy in postmenopausal women: effects on cognitive function and dementia. *JAMA* 1998 Mar 4;279(9):688-95. doi: 10.1001/jama.279.9.688. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9496988/)
 - Zandi Peter P Anthony James M Hayden Kathleen M et al. 2002 Reduced incidence of AD with NSAID but not H2 receptor antagonists: the Cache County Study. *Neurology* 2002 Sep 24;59(6):880-6. doi: 10.1212/wnl.59.6.880. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12297571/)
 
-# Reminders
+# Reminders / What Should I Be Working On?
 
-1. Lab 1
-2. It's not too early to start thinking about:
-    - claiming an [Observational Studies In Action](https://github.com/THOMASELOVE/500-2022/tree/main/osia) article (due 2022-02-02)
-    - developing a [project proposal](https://github.com/THOMASELOVE/500-2022/tree/main/project) (and identifying an available data set) (initial draft due 2022-02-09)
+1. [Lab 1](https://thomaselove.github.io/500-2023/lab1.html) due Wednesday 2023-02-01 at 7 PM to [Canvas](https://canvas.case.edu).
+2. Rosenbaum: Read Chapter 3 for our next class
+3. It's not too early to start thinking about:
+    - claiming an [Observational Studies In Action](https://thomaselove.github.io/500-2023/osia.html) article (due 2023-02-15)
+    - developing a [project proposal](https://thomaselove.github.io/500-2023/proj500.html) and identifying an available data set (initial draft due 2023-02-22)
 
-## Notes from the 431-432 Sequence
+## Shameless Promotion: The Play That Goes Wrong 
 
-If you need them, the [431 Notes from Fall 2022 are here](https://thomaselove.github.io/431-notes/), and the [432 Notes for Spring 2023 are here](https://thomaselove.github.io/432-notes/).
-
-## Learning about Quarto (and making the switch from R Markdown)
-
-See the resources in the [Class 01 README](https://github.com/THOMASELOVE/500-classes-2023/tree/main/class01).
+- The Play That Goes Wrong begins tomorrow night, January 27 and continues through February 18, 2023 on Friday and Saturday nights at 8 PM at [Aurora Community Theatre](https://www.auroracommunitytheatre.com/).
+- Details at https://github.com/THOMASELOVE/theater and https://www.auroracommunitytheatre.com/
+- Tickets are going quite quickly. It is plausible that some or even many performances will sell out in advance, so if you want to go, please buy tickets soon. Thanks.
