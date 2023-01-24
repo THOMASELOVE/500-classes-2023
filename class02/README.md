@@ -49,6 +49,8 @@ Other articles I refer to in the slides, if you're interested in tracking down f
 # Reminders / What Should I Be Working On?
 
 1. [Lab 1](https://thomaselove.github.io/500-2023/lab1.html) due Wednesday 2023-02-01 at 7 PM to [Canvas](https://canvas.case.edu).
+    - Here are the R packages I used to build my answer sketch for Lab 1, not counting the xfun package which I used only to present the session information.
+        - broom, janitor, knitr, mosaic, naniar, rsample, simputation and tidyverse
 2. Rosenbaum: Read Chapter 3 for our next class
 3. It's not too early to start thinking about:
     - claiming an [Observational Studies In Action](https://thomaselove.github.io/500-2023/osia.html) article (due 2023-02-15)
