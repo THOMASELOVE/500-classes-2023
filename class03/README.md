@@ -4,9 +4,20 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
 links for everything | deadlines | expectations | zoom, submissions | downloads | to read | `Thomas` dot `Love` at `case` dot `edu`
 
-# Today's Agenda
+## Today's Slides
 
-To come.
+Class | Date | PDF | Quarto .qmd | Recording
+:---: | :--------: | :------: | :------: | :-------------:
+03 | 2023-02-02 | **[Slides 03](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides03.pdf)** | **[Code 03](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides03.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+
+## Today's Agenda
+
+1. Estimating the Propensity Score (Building the Propensity Model)
+2. A schematic for propensity matching in a “simple” study
+3. Mechanics of Propensity Matching
+4. Schematics for other Propensity Methods in “simple” studies
+5. An Introduction to The SUPPORT / Right Heart Catheterization Study
+6. Lab 1 (How did it go?)
 
 ## References from Today's Class
 
