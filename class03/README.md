@@ -36,6 +36,7 @@ Other references in the slides, if you're interested in tracking down further de
 
 ## What should I be working on?
 
-1. Lab 2, due 2023-01-26 at 7 PM to Canvas.
+1. [Lab 2](https://thomaselove.github.io/500-2023/lab2.html), due 2023-02-08 at 7 PM to Canvas.
     - Here are the R packages I used to build my answer sketch for Lab 2, not counting the xfun package which I used only to present the session information.
-        - broom, janitor, mosaic, naniar, tableone, and tidyverse
+        - broom, janitor, mosaic, naniar, tableone, and tidyverse.
+2. Get started (if you haven't already) on your [OSIA selection](https://thomaselove.github.io/500-2023/osia.html) (due 2-15), and your first draft of the [Project Proposal](https://thomaselove.github.io/500-2023/proj500.html) (due 2-22)
