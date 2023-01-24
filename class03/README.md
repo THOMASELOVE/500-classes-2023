@@ -34,3 +34,8 @@ Other references in the slides, if you're interested in tracking down further de
 - Harrell FE *[Biostatistics for Biomedical Research](http://hbiostat.org/bbr/)*, specifically the [BBR Notes (pdf)](http://hbiostat.org/doc/bbr.pdf). 
 - Lunceford JK and Davidian M 2004 Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study. *Stat Med* 2004 Oct 15;23(19):2937-60. doi: 10.1002/sim.1903. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15351954/).
 
+## What should I be working on?
+
+1. Lab 2, due 2023-01-26 at 7 PM to Canvas.
+    - Here are the R packages I used to build my answer sketch for Lab 2, not counting the xfun package which I used only to present the session information.
+        - broom, janitor, mosaic, naniar, tableone, and tidyverse
