@@ -58,6 +58,4 @@ Other articles I refer to in the slides, if you're interested in tracking down f
 
 ## Shameless Promotion: The Play That Goes Wrong 
 
-- The Play That Goes Wrong begins tomorrow night, January 27 and continues through February 18, 2023 on Friday and Saturday nights at 8 PM at [Aurora Community Theatre](https://www.auroracommunitytheatre.com/).
-- Details at https://github.com/THOMASELOVE/theater and https://www.auroracommunitytheatre.com/
-- Tickets are going quite quickly. It is plausible that some or even many performances will sell out in advance, so if you want to go, please buy tickets soon. Thanks.
+[The Play That Goes Wrong at Aurora Community Theatre](https://www.auroracommunitytheatre.com/) starts its run tomorrow (Friday) night and continues through 2023-02-18. Thanks for putting up with these reminders. Come, if you like, but buy your tickets in advance if at all possible. [Here's the video promoting the show](https://conta.cc/3R5WGCJ).
