@@ -51,3 +51,8 @@ Other references in the slides, if you're interested in tracking down further de
     - Here are the R packages I used to build my answer sketch for Lab 2, not counting the xfun package which I used only to present the session information.
         - broom, janitor, mosaic, naniar, tableone, and tidyverse.
 2. Get started (if you haven't already) on your [OSIA selection](https://thomaselove.github.io/500-2023/osia.html) (due 2-15), and your first draft of the [Project Proposal](https://thomaselove.github.io/500-2023/proj500.html) (due 2-22)
+
+## "The Play That Goes Wrong" continues through February 18
+
+Tickets and further information are available at https://www.auroracommunitytheatre.com/. Thank you.
+
