@@ -18,6 +18,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 4. Schematics for other Propensity Methods in “simple” studies
 5. An Introduction to The SUPPORT / Right Heart Catheterization Study
 6. Lab 1 (How did it go?)
+    - The Answer Sketch for Lab 1 is posted to our Shared Google Drive.
 
 ## References from Today's Class
 
