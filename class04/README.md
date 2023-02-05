@@ -7,3 +7,7 @@ links for everything | deadlines | expectations | zoom, submissions | downloads 
 # Today's Agenda
 
 To come.
+
+# OSIA Claims
+
+can be found at https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md
