@@ -14,4 +14,4 @@ can be found at https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md
 
 # One Last Thing
 
-![](https://imgs.xkcd.com/comics/confounding_variables.png) (from https://xkcd.com/2560)
+![](https://imgs.xkcd.com/comics/confounding_variables.png) from https://xkcd.com/2560
