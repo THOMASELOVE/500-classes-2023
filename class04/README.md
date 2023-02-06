@@ -12,6 +12,10 @@ To come.
 
 can be found at https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md
 
+## The Play That Goes Wrong
+
+A few tickets are still available for our last four performances, February 10, 11, 17 and 18 at 8 PM. If you cannot get a seat in the Center, then House Left (seats begin with the number 1, rather than 3) is probably a better choice than House Right. Tickets at https://www.auroracommunitytheatre.com/
+
 # One Last Thing
 
 ![](https://imgs.xkcd.com/comics/confounding_variables.png) from https://xkcd.com/2560
