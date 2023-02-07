@@ -9,9 +9,8 @@ links for everything | deadlines | expectations | zoom, submissions | downloads 
 # Today's Agenda
 
 1. Any problems with Lab 2? (The Answer Sketch will be posted to our Shared Drive **by class time**)
-2. Using R to do propensity score matching, subclassification, weighting and adjustment
-3. The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy)
-4. Discussion of Rosenbaum, Chapter 3
+2. The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy): Using R to do propensity score matching, subclassification, weighting and adjustment
+3. Discussion of Rosenbaum, Chapter 3
 
 There are no "slides" for today's class. 
 
