@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
 links for everything | deadlines | expectations | zoom, submissions | downloads | to read | `Thomas` dot `Love` at `case` dot `edu`
 
-**Today's class will be given exclusively via Zoom. Check your email for details.**
+## Today's class will be given exclusively via Zoom. Check your email for details.
 
 # Today's Agenda
 
