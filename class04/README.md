@@ -22,7 +22,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 In addition to [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy), we have another worked example in R using Quarto, this one built by Wyatt P. Bensken and Harry Persaud, but based on real data. 
 
-- It's ca1lled [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) and we'll look it over in class either today or next Thursday, briefly.
+- It's called [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) and we'll look it over in class either today or next Thursday, briefly.
 
 ## What Should I Be Working On?
 
