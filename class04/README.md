@@ -18,9 +18,12 @@ Class | Date | PDF | Quarto .qmd | Recording
 2. The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy): Using R to do propensity score matching, subclassification, weighting and adjustment
 3. Discussion of Rosenbaum, Chapter 3
 
-# OSIA Claims
+## What Should I Be Working On?
 
-can be found at https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md
+1. [OSIA claims](https://thomaselove.github.io/500-2023/osia.html) due 2023-02-15 at 7 PM.
+    - The current claims can be found at https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md. 
+2. [Project Proposal (draft 1)](https://thomaselove.github.io/500-2023/proj500.html) due 2023-02-22 at 7 PM.
+3. [Lab 3](https://thomaselove.github.io/500-2023/lab3.html) is due 2023-02-29 at 7 PM and will be your first good chance to practice what we'll see in the toy example today.
 
 ## The Play That Goes Wrong
 
