@@ -18,6 +18,12 @@ Class | Date | PDF | Quarto .qmd | Recording
 2. The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy): Using R to do propensity score matching, subclassification, weighting and adjustment
 3. Discussion of Rosenbaum, Chapter 3
 
+## The [lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) is also ready for you to view/use
+
+In addition to [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy), we have another worked example in R using Quarto, this one built by Wyatt P. Bensken and Harry Persaud, but based on real data. 
+
+- It's ca1lled [the lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) and we'll look it over in class either today or next Thursday, briefly.
+
 ## What Should I Be Working On?
 
 1. [OSIA claims](https://thomaselove.github.io/500-2023/osia.html) due 2023-02-15 at 7 PM.
