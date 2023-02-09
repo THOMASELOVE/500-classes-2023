@@ -12,9 +12,9 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 # Today's Agenda
 
-## Today's class will be given exclusively via Zoom. Check your email for details.
+## Today's class will be given exclusively via Zoom. Check your email for details and the link.
 
-1. Any problems with Lab 2? (The Answer Sketch will be posted to our Shared Drive **by class time**)
+1. Any problems with Lab 2? (The Answer Sketch is now available on our Shared Drive.)
 2. The [toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy): Using R to do propensity score matching, subclassification, weighting and adjustment
 3. Discussion of Rosenbaum, Chapter 3
 
