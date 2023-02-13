@@ -7,3 +7,9 @@ links for everything | deadlines | expectations | zoom, submissions | downloads 
 # Today's Agenda
 
 To come.
+
+## Can I Still See Your Show?
+
+We have fewer than 20 seats available for each of our final two performances of The Play That Goes Wrong, this Friday and Saturday at 8 PM. Visit https://www.auroracommunitytheatre.com/ for tickets.
+
+![](two_TPTGW.png)
