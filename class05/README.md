@@ -30,7 +30,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. [Project Proposal (draft 1)](https://thomaselove.github.io/500-2023/proj500.html) is due to Canvas at 7 PM on Wednesday 2023-02-22.
     - You'll also present your idea orally in class on 2023-02-23 (this "presentation" will just be you briefly summarizing your data source, outcome, treatment and covariates from your seat - no slides and it shouldn't take more than two minutes, each.)
     - The second and final version of your Proposal is due on Wednesday 2023-03-08.
-2. Lab 3 is due to Canvas at 7 PM the following Wednesday 2023-03-01. In Lab 3, you will do the following:
+2. [Lab 3](https://thomaselove.github.io/500-2023/lab3.html) is due to Canvas at 7 PM the following Wednesday 2023-03-01. In Lab 3, you will do the following:
     - fit two logistic regression models in Task 1
     - fit a propensity model in Task 2
     - evaluate Rubin's Rule 1 and Rule 2 before propensity scores are applied in Task 3 
