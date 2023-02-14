@@ -12,7 +12,17 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 # Today's Agenda
 
-To come.
+1. Our R Examples So Far
+    - [The toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy) (discussed in Class 04)
+    - [The lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) (lightly touched on in Class 04)
+2. [The dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200)
+    - The MatchIt and Matching packages
+    - Varying the Matching Structure
+3. Matching with (or without) a Propensity Score
+4. Rosenbaum, Chapters 1-4
+5. Feinstein's Model for Research Architecture
+6. Extending "Matching"
+7. Discussion of OSIA Claims and Scheduling
 
 ## Can I Still See Your Show?
 
