@@ -19,7 +19,7 @@ Class | Date | PDF | Quarto .qmd | Recording
     - The MatchIt and Matching packages
     - Varying the Matching Structure
 3. Matching with (or without) a Propensity Score
-4. Discussion of OSIA Claims and Scheduling
+4. Discussion of [OSIA Claims and Scheduling](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md)
 5. Rosenbaum, Chapters 1-4
 6. Feinstein's Model for Research Architecture
 7. Extending "Matching" in a few other ways
