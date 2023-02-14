@@ -4,6 +4,12 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
 links for everything | deadlines | expectations | zoom, submissions | downloads | to read | `Thomas` dot `Love` at `case` dot `edu`
 
+## Today's Slides
+
+Class | Date | PDF | Quarto .qmd | Recording
+:---: | :--------: | :------: | :------: | :-------------:
+05 | 2023-02-16 | **[Slides 05](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides05.pdf)** | **[Code 05](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides05.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+
 # Today's Agenda
 
 To come.
