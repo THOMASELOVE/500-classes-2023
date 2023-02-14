@@ -16,8 +16,9 @@ Class | Date | PDF | Quarto .qmd | Recording
     - [The toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy) (discussed in Class 04)
     - [The lindner example](https://github.com/THOMASELOVE/500-data/tree/master/lindner) (lightly touched on in Class 04)
 2. [The dm2200 example](https://github.com/THOMASELOVE/500-data/tree/master/dm2200) (new today)
-    - The MatchIt and Matching packages
+    - Using the MatchIt and Matching packages to match
     - Varying the Matching Structure
+    - What happens when the matched sample outcome analysis won't converge?
 3. Matching with (or without) a Propensity Score
 4. Discussion of [OSIA Claims and Scheduling](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md)
 5. Rosenbaum, Chapters 1-4
