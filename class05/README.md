@@ -21,6 +21,7 @@ Class | Date | PDF | Quarto .qmd | Recording
     - What happens when the matched sample outcome analysis won't converge?
 3. Matching with (or without) a Propensity Score
 4. Discussion of [OSIA Claims and Scheduling](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md)
+    - Here is the [Google Form](https://bit.ly/500-2023-osia-schedule) for OSIA second reader assignment and presentation scheduling, which we want you to complete by  2023-03-06 at noon.
 5. Rosenbaum, Chapters 1-4
 6. Feinstein's Model for Research Architecture
 7. Extending "Matching" in a few other ways
@@ -37,6 +38,7 @@ Class | Date | PDF | Quarto .qmd | Recording
     - use direct adjustment for the (logit of the) propensity score to fit an outcome model in Task 4 (see the `toy` or `lindner` examples for help with these first four tasks)
     - do a 1:1 (greedy) match without replacement on the propensity score, in several parts, captured in Task 5 (see the examples above, or the `dm2200` example) 
     - compare the estimates you receive from Tasks 1, 4 and 5 in Task 6 using a table or (better) graph.
+3. [OSIA second reader and scheduling form](https://bit.ly/500-2023-osia-schedule). Please complete this no later than 2023-03-06 at noon.
 
 ## References from Today's Class include...
 
