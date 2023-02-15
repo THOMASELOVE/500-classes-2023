@@ -20,8 +20,8 @@ Class | Date | PDF | Quarto .qmd | Recording
     - Varying the Matching Structure
     - What happens when the matched sample outcome analysis won't converge?
 3. Matching with (or without) a Propensity Score
-4. Discussion of [OSIA Claims and Scheduling](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md)
-    - Here is the [Google Form](https://bit.ly/500-2023-osia-schedule) for OSIA second reader assignment and presentation scheduling, which we want you to complete by  2023-03-06 at noon.
+4. Discussion of [OSIA Claims Page](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md) and Scheduling Plan
+    - Here is the [Google Form](https://bit.ly/500-2023-osia-schedule) for OSIA second reader assignment and presentation scheduling, which we want you to complete by  Monday 2023-03-06 at noon.
 5. Rosenbaum, Chapters 1-4
 6. Feinstein's Model for Research Architecture
 7. Extending "Matching" in a few other ways
