@@ -32,6 +32,6 @@ Some basic information about [your first drafts is found here](https://github.co
 2. Complete [OSIA Scheduling/second reader form](https://bit.ly/500-2023-osia-schedule) by Noon on Monday 2023-03-06.
     - [OSIA Claims Page is here](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md).
 3. Project Proposals
-    - [First draft](https://thomaselove.github.io/500-2023/proj500.html) if that's not in yet - ASAP
-    - [Final version](https://thomaselove.github.io/500-2023/proj500.html) due 2023-03-08 at 7 PM if I've approved your initial proposal
+    - [First draft](https://thomaselove.github.io/500-2023/proj500.html) if that's not a 10 on Canvas yet - no later than Saturday 9 AM, please.
+    - [Final version](https://thomaselove.github.io/500-2023/proj500.html) due 2023-03-08 at 7 PM if I've approved your initial proposal (score on Canvas is a 10) - we'll discuss necessary changes more next week, too.
 
