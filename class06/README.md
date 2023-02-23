@@ -19,7 +19,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Your Project Proposals
 
-Some basic information about [your first drafts is found here](https://github.com/THOMASELOVE/500-projects-2023/blob/main/proposal1.md). I'd like Jack, Kyle, Vineet and Millenia (along with Jordan) to resubmit their work after we chat about it today. I'd like to see that by Saturday at 9 AM at the latest, please.
+Some basic information about [your first drafts is found here](https://github.com/THOMASELOVE/500-projects-2023/blob/main/proposal1.md). I'd like Jack, Kyle, Vineet and Millenia (along with Jordan) to resubmit their work after we chat about it today. I'd like to see that by Saturday 2023-02-27 at 9 AM at the latest, please.
 
 ## Main References from Today's Class
 
