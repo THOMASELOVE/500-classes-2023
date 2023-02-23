@@ -12,10 +12,15 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Today's Agenda
 
-1. (repeated from Slides 05): Matching Approaches and Austin 2014
+1. (repeated from Slides 05): Matching Approaches and [Austin 2014](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Austin%202014%20Comparing%2012%20PS%20matching%20algorithms.pdf)
 2. (repeated from Slides 05): on Feinstein's Model for Research Architecture (expanded by Neal Dawson)
-3. Rubin's 2001 paper on Designing Observational Studies
+3. [Rubin's 2001 paper](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf) on Designing Observational Studies
 4. Rosenbaum Chapters 5-6 and your Project 1 Proposals
+
+## Main References from Today's Class
+
+- Austin Peter C 2014 [A comparison of 12 algorithms for matching on the propensity score](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Austin%202014%20Comparing%2012%20PS%20matching%20algorithms.pdf) *Statistics in Medicine* 33, 1057-69.
+- Rubin Donald B 2001 [Using Propensity Scores to help Design Observational Studies: Application to the Tobacco Litigation](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf) *Health Services & Outcomes Research Methodology*
 
 ## What Should I Be Working On?
 
