@@ -17,6 +17,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 3. [Rubin's 2001 paper](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf) on Designing Observational Studies
 4. Rosenbaum Chapters 5-6 and your Project 1 Proposals
 
+## Your Project Proposals
+
+Some basic information about [your first drafts is found here](https://github.com/THOMASELOVE/500-projects-2023/blob/main/proposal1.md).
+
 ## Main References from Today's Class
 
 - Austin Peter C 2014 [A comparison of 12 algorithms for matching on the propensity score](https://github.com/THOMASELOVE/500-classes-2023/blob/main/sources/articles/Austin%202014%20Comparing%2012%20PS%20matching%20algorithms.pdf) *Statistics in Medicine* 33, 1057-69.
@@ -26,7 +30,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. [Lab 3](https://thomaselove.github.io/500-2023/lab3.html) due to Canvas at 7 PM on Wednesday 2023-03-01.
 2. Complete [OSIA Scheduling/second reader form](https://bit.ly/500-2023-osia-schedule) by Noon on Monday 2023-03-06.
-3. Project Proposal
+    - [OSIA Claims Page is here](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md).
+3. Project Proposals
     - [First draft](https://thomaselove.github.io/500-2023/proj500.html) if that's not in yet - ASAP
     - [Final version](https://thomaselove.github.io/500-2023/proj500.html) due 2023-03-08 at 7 PM if I've approved your initial proposal
 
