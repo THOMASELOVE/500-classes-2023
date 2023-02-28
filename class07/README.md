@@ -12,4 +12,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 # Today's Agenda
 
-To come.
+1. Today's class is offered via Zoom only. See Canvas or your email for the link.
+2. More to come.
+
