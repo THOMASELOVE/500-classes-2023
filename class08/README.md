@@ -12,4 +12,5 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 # Today's Agenda
 
-To come.
+1. Verify schedule and plans for OSIA presentations. [See here for the schedule](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md).
+
