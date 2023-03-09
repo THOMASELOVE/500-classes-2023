@@ -32,10 +32,10 @@ Remember that next week is the CWRU Spring Break. We will not hold class again u
 There are several things I expect you to have done before our next class, on the Thursday after Spring Break.
 
 1. [Lab 4](https://thomaselove.github.io/500-2023/lab4.html) is due to Canvas on Wednesday 2023-03-22 at 7 PM.
-2. Please read Rosenbaum Chapter 11 and complete the [Essay associated with that chapter](https://thomaselove.github.io/500-2023/essays.html#prompt-for-chapter-11-matching-techniques) and submit it to our Shared Drive by 8 AM on 2023-03-23, so it is there in time for others to see it during our next class.
+2. Please read Rosenbaum Chapter 11 and complete the [Essay associated with that chapter](https://thomaselove.github.io/500-2023/essays.html#prompt-for-chapter-11-matching-techniques) and submit it to our Shared Drive in the **Rosenbaum Essays... Chapter 11** folder by 8 AM on 2023-03-23, so it is there in time for others to see it during our next class. Be sure to include your name in the file name.
 3. OSIA schedule for our next class is [here](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md).
-    - Bryan, Jordan and Vineet will be our primary readers, and will [submit their 15-20 slides](https://thomaselove.github.io/500-2023/osia.html#for-the-primary-reviewer) for their presentations to our Shared Google Drive in the OSIA ... OSIA Presentations for 2023-03-23 folder by 3 PM on Wednesday 2023-03-22. 
-    - Sameer, Catherine and Jacqueline will be our second readers, and will [submit their 2-4 slides](https://thomaselove.github.io/500-2023/osia.html#for-the-second-reviewer) for their presentations to our Shared Google Drive in the OSIA ... OSIA Presentations for 2023-03-23 folder by 8 AM on Thursday 2023-03-23.
+    - Bryan, Jordan and Vineet will be our primary readers, and will [submit their 15-20 slides](https://thomaselove.github.io/500-2023/osia.html#for-the-primary-reviewer) for their presentations to our Shared Google Drive in the **OSIA ... OSIA Presentations for 2023-03-23** folder by 3 PM on Wednesday 2023-03-22. 
+    - Sameer, Catherine and Jacqueline will be our second readers, and will [submit their 2-4 slides](https://thomaselove.github.io/500-2023/osia.html#for-the-second-reviewer) for their presentations to our Shared Google Drive in the **OSIA ... OSIA Presentations for 2023-03-23** folder by 8 AM on Thursday 2023-03-23.
     - Everyone else is responsible to read the [abstracts of the three papers](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-09-2023-03-23) in advance, so that you can contribute more meaningfully to the discussion. 
 
 Thanks!
