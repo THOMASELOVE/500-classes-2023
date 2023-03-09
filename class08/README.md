@@ -29,7 +29,7 @@ Remember that next week is the CWRU Spring Break. We will not hold class again u
 
 ## What Should I Be Working On?
 
-There are a lot of things I expect you to have done before our next class.
+There are several things I expect you to have done before our next class, on the Thursday after Spring Break.
 
 1. [Lab 4](https://thomaselove.github.io/500-2023/lab4.html) is due to Canvas on Wednesday 2023-03-22 at 7 PM.
 2. Please read Rosenbaum Chapter 11 and complete the [Essay associated with that chapter](https://thomaselove.github.io/500-2023/essays.html#prompt-for-chapter-11-matching-techniques) and submit it to our Shared Drive by 8 AM on 2023-03-23, so it is there in time for others to see it during our next class.
