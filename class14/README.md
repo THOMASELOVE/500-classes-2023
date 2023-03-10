@@ -6,3 +6,9 @@ links for everything | deadlines | expectations | zoom, submissions | downloads 
 
 - We will start class at 8:30 AM.
 - We will hear seven project presentations.
+
+## What Should I Be Working On?
+
+1. If you don't present today, you present next Wednesday 2023-05-04.
+2. Final Project Submissions are due to Canvas at 12 Noon on Monday 2023-05-08 from everyone.
+3. When prompted via email by the University (usually in late April), please visit https://webapps.case.edu/courseevals/ and complete the course evaluations before they close.
