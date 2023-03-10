@@ -9,6 +9,7 @@ links for everything | deadlines | expectations | zoom, submissions | downloads 
 
 ## What Should I Be Working On?
 
-1. If you don't present today, you present next Wednesday 2023-05-04.
+1. If you don't give your [Final Project Presentation](https://thomaselove.github.io/500-2023/proj500.html#the-presentation) today, you'll do so next Wednesday 2023-05-04. 
+    - Remember that we will begin class in person at 8:30 AM today and next Wednesday.
 2. [Final Project Submissions](https://thomaselove.github.io/500-2023/proj500.html#final-materials) are due to Canvas at 12 Noon on Monday 2023-05-08 from everyone.
 3. When prompted via email by the University (usually in late April), please visit https://webapps.case.edu/courseevals/ and complete the course evaluations before they close.
