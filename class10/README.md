@@ -10,6 +10,11 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 10 | 2023-03-30 | **[Slides 10](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides10.pdf)** | **[Code 10](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides10.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Announcements
+
+1. I will post the Lab 5 answer sketch to our Shared Drive by class time.
+
+
 ## Today's OSIA presentations
 
 First Reader | Second Reader | PDF Links | Citation and DOI Link (to read the Abstract)
