@@ -17,3 +17,8 @@ First Reader | Second Reader | PDF Links | Citation and DOI Link (to read the Ab
 Ife Babatunde | Zunren (Jack) Liu | [Yang et al 2022](pdf/yang_2022.pdf) | Yang N et al. (2022) In-hospital outcomes of ticagrelor versus clopidogrel in patients 75 years or older with acute coronary syndrome: findings from the Improving Care for Cardiovascular Disease in China (CCC) – Acute Coronary Syndrome Project *Age and Ageing* S1: 1-12. https://doi.org/10.1093/ageing/afac231
 Kyle McGill Percy | Jordan Rieke | [Sun et al 2023](pdf/sun_2023.pdf) | Sun M et al. (2023) Dementia risk after major elective surgery based on the route of anaesthesia: a propensity score-matched population-based cohort study *eClinical Med* 55: 101727. https://doi.org/10.1016/j.eclinm.2022.101727
 Millenia Zhou | Alise Carlson | [Rai et al 2017](pdf/rai_2017.pdf), and [Supplement](pdf/rai_2017_supplement.pdf) | Rai D et al. (2017) Antidepressants during pregnancy and autism in offspring: population based cohort study *BMJ* 358: j2811 https://doi.org/10.1136/bmj.j2811
+
+## Today's Rosenbaum Discussion: Chapter 8 (Quasi-Experimental Devices)
+
+Provide an example of how the method of multiple control groups might be used to improve the design of an observational study with which you are familiar, either one you have been directly involved in, or one you’ve read about, or one you’d like to be able to do. Provide a basic description of your study’s population, outcome, treatment and control conditions and covariates of interest so we can follow your logic. Be sure to specify the approach you would take in implementing multiple control groups, and the ways in which you expect the use of multiple control groups to be helpful in improving your understanding of the phenomenon you’re studying.
+
