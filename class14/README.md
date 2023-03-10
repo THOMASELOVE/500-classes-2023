@@ -4,3 +4,5 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :------: | :-----------: 
 links for everything | deadlines | expectations | zoom, submissions | downloads | to read | `Thomas` dot `Love` at `case` dot `edu`
 
+- We will start class at 8:30 AM.
+- We will hear seven project presentations.
