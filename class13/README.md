@@ -22,6 +22,7 @@ Describe how one of the unmeasured generic biases described in this Chapter has 
 
 ## What Should I Be Working On?
 
-1. The [Final Project Presentation](https://thomaselove.github.io/500-2023/proj500.html#the-presentation) Schedule will be available by now, and your presentation is either on 2023-04-27 or 2023-05-04. Remember that we will begin class in person at 8:30 AM those two days.
+1. Your [Final Project Presentation](https://thomaselove.github.io/500-2023/proj500.html#the-presentation) is either on 2023-04-27 or 2023-05-04. 
+    - Remember that we will begin class in person at 8:30 AM those two days.
 2. [Final Project Submissions](https://thomaselove.github.io/500-2023/proj500.html#final-materials) are due to Canvas at 12 Noon on Monday 2023-05-08 from everyone.
 3. When prompted via email by the University (usually in late April), please visit https://webapps.case.edu/courseevals/ and complete the course evaluations before they close.
