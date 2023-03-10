@@ -15,3 +15,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 First Reader | Second Reader | PDF Links | Citation and DOI Link (to read the Abstract)
 :-----------: | :-----------: | :---------: | :-------------------------------------------------------------------------
 Benjamin Kramer | Bryan Abadie | [Zeitler et al 2023](pdf/zeitler_2023.pdf) | Zeitler EP et al. (2023) Comparative Effectiveness of Left Atrial Appendage Occlusion Versus Oral Anticoagulation by Sex *Circulation* 147: 586–596. https://doi.org/10.1161/CIRCULATIONAHA.122.062765
+
+## Today's Rosenbaum Discussion: Chapter 12 (Biases from General Dispositions)
+
+Describe how one of the unmeasured generic biases described in this Chapter has affected your life or work. Mask the details to protect anonymity and avoid embarrassment if appropriate, but provide us with sufficient background that we can understand the potential for confusion and bias if the situation was to be analyzed in terms of a comparison of treatment effects.
