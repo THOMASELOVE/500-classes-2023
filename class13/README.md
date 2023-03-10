@@ -19,3 +19,9 @@ Benjamin Kramer | Bryan Abadie | [Zeitler et al 2023](pdf/zeitler_2023.pdf) | Ze
 ## Today's Rosenbaum Discussion: Chapter 12 (Biases from General Dispositions)
 
 Describe how one of the unmeasured generic biases described in this Chapter has affected your life or work. Mask the details to protect anonymity and avoid embarrassment if appropriate, but provide us with sufficient background that we can understand the potential for confusion and bias if the situation was to be analyzed in terms of a comparison of treatment effects.
+
+## What Should I Be Working On?
+
+1. The Final Project Presentation Schedule will be available by now, and your presentation is either on 2023-04-27 or 2023-05-04. Remember that we will begin class in person at 8:30 AM those two days.
+2. Final Project Submissions are due to Canvas at 12 Noon on Monday 2023-05-08 from everyone.
+3. When prompted via email by the University (usually in late April), please visit https://webapps.case.edu/courseevals/ and complete the course evaluations before they close.
