@@ -10,6 +10,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 11 | 2023-04-06 | **[Slides 11](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides11.pdf)** | **[Code 11](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides11.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Announcements
+
+1. I will review as many of the Project Updates as possible by class time.
+
 ## Today's OSIA presentations
 
 First Reader | Second Reader | PDF Links | Citation and DOI Link (to read the Abstract)
