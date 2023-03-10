@@ -24,7 +24,8 @@ Jacqueline Shaia | Vineet Punia | [Raynald et al 2022](pdf/raynald_2022.pdf) | R
 
 ## What Should I Be Working On?
 
-1. The Final Project Presentation Schedule will be available by now, and your presentation is either on 2023-04-27 or 2023-05-04. Remember that we will begin class in person at 8:30 AM those two days.
+1. Your [Final Project Presentation](https://thomaselove.github.io/500-2023/proj500.html#the-presentation) is either on 2023-04-27 or 2023-05-04. 
+    - Remember that we will begin class in person at 8:30 AM those two days.
 2. Please read Rosenbaum Chapter 8 and complete the [Essay associated with that chapter](https://thomaselove.github.io/500-2023/essays.html#prompt-for-chapter-8-quasi-experimental-devices) and submit it to our Shared Drive in the **Rosenbaum Essays... Chapter 8** folder by 8 AM on 2023-04-12, so it is there in time for others to see it during our next class. Be sure to include your name in the file name.
 3. OSIA schedule for our next class is [here](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-12-2023-04-13).
     - Ife, Kyle and Millenia will be our primary readers, and will [submit their 15-20 slides](https://thomaselove.github.io/500-2023/osia.html#for-the-primary-reviewer) for their presentations to our Shared Google Drive in the **OSIA ... OSIA Presentations for 2023-04-13** folder by 3 PM on Wednesday 2023-04-12. 
