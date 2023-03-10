@@ -12,8 +12,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
 
-1. I will post the Lab 5 answer sketch to our Shared Drive by class time.
-
+1. I will post the Lab 5 answer sketch to our Shared Drive **by class time**.
 
 ## Today's OSIA presentations
 
@@ -27,4 +26,10 @@ Alise Carlson | Peng Zhang | [Pape et al 2022](pdf/pape_2022.pdf), and [Suppleme
 
 In one of Dr. Love’s papers using matched propensity-score analysis, a significant result was obtained favoring the treatment group over a control, and the calculated sensitivity parameter value was 1.5. Now imagine that you did a study and obtained such a result. Provide a basic description of your imaginary study’s population, outcome, treatment and covariates so we can follow your logic. Provide a description of what that value means in English, and discuss how your reaction to the study and its importance might differ if the significance level was unchanged but the sensitivity parameter had instead been 1.1, or 2.0.
 
+## What Should I Be Working On?
 
+1. Your [Project Update](https://thomaselove.github.io/500-2023/proj500.html#the-project-update) is due to Canvas on Wednesday 2023-04-05 at 7 PM.
+2. OSIA schedule for our next class is [here](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-11-2023-04-06).
+    - Sameer, Catherine and Jacqueline will be our primary readers, and will [submit their 15-20 slides](https://thomaselove.github.io/500-2023/osia.html#for-the-primary-reviewer) for their presentations to our Shared Google Drive in the **OSIA ... OSIA Presentations for 2023-03-30** folder by 3 PM on Wednesday 2023-04-05. 
+    - Ben, Kyle and Vineet will be our second readers, and will [submit their 2-4 slides](https://thomaselove.github.io/500-2023/osia.html#for-the-second-reviewer) for their presentations to our Shared Google Drive in the **OSIA ... OSIA Presentations for 2023-03-30** folder by 8 AM on Thursday 2023-04-06.
+    - Everyone else is responsible to read the [abstracts of the three papers](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-11-2023-04-06) in advance, so that you can contribute more meaningfully to the discussion. 
