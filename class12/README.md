@@ -24,7 +24,8 @@ Provide an example of how the method of multiple control groups might be used to
 
 ## What Should I Be Working On?
 
-1. The [Final Project Presentation](https://thomaselove.github.io/500-2023/proj500.html#the-presentation) is either on 2023-04-27 or 2023-05-04. Remember that we will begin class in person at 8:30 AM those two days.
+1. Your [Final Project Presentation](https://thomaselove.github.io/500-2023/proj500.html#the-presentation) is either on 2023-04-27 or 2023-05-04. 
+    - Remember that we will begin class in person at 8:30 AM those two days.
 2. Please read Rosenbaum Chapter 12 and complete the [Essay associated with that chapter](https://thomaselove.github.io/500-2023/essays.html#prompt-for-chapter-12-biases-from-general-dispositions) and submit it to our Shared Drive in the **Rosenbaum Essays... Chapter 12** folder by 8 AM on 2023-04-19, so it is there in time for others to see it during our next class. Be sure to include your name in the file name.
 3. Our final OSIA presentation will be next week.
     - Ben is our primary reader, and will [submit his 15-20 slides](https://thomaselove.github.io/500-2023/osia.html#for-the-primary-reviewer) to our Shared Google Drive in the **OSIA ... OSIA Presentations for 2023-04-20** folder by 3 PM on Wednesday 2023-04-19. 
