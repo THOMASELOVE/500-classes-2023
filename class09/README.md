@@ -10,6 +10,11 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 09 | 2023-03-23 | **[Slides 09](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides09.pdf)** | **[Code 09](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides09.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Announcements
+
+1. I fixed the sensitivity analyses for [the rhc example](https://github.com/THOMASELOVE/500-data/tree/master/rhc) and [the toy example](https://github.com/THOMASELOVE/500-data/tree/master/toy) on 2023-03-10.
+2. I will post the Lab 4 answer sketch to our Shared Drive by class time.
+
 ## Today's OSIA presentations
 
 First Reader | Second Reader | PDF Links | Citation and DOI Link (to read the Abstract)
