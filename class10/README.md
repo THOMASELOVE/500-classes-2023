@@ -10,3 +10,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 10 | 2023-03-30 | **[Slides 10](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides10.pdf)** | **[Code 10](https://github.com/THOMASELOVE/500-slides-2023/blob/main/500_slides10.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Today's OSIA presentations
+
+First Reader | Second Reader | PDF Links | Citation and DOI Link (to read the Abstract)
+:-----------: | :-----------: | :---------: | :-------------------------------------------------------------------------
+Peng Zhang | Ife Babatunde | [Wu TD et al 2019](pdf/wu_2019.pdf) | Wu TD et al. (2019) Association of Metformin Initiation and Risk of Asthma Exacerbation: A Claims-based Cohort Study *Ann Am Thorac Soc* 16(12): 1527-33. https://doi.org/10.1513/AnnalsATS.201812-897OC
+Zunren (Jack) Liu | Millenia Zhou | [Wu J et al 2022](pdf/wu_2022.pdf) | Wu J et al. (2022) Higher Collective Responsibility, Higher COVID-19 Vaccine Uptake, and Interaction with Vaccine Attitude: Results from Propensity Score Matching *Vaccines* 10: 1295. https://doi.org/10.3390/vaccines10081295
+Alise Carlson | Peng Zhang | [Pape et al 2022](pdf/pape_2022.pdf), and [Supplement](pdf/pape_2022_supplement.pdf) | Pape K et al. (2022) Comparative effectiveness of natalizumab versus ocrelizumab in multiple sclerosis: a real-world propensity score–matched study *Ther Adv Neurol Disord* 15: 1-15. https://doi.org/10.1177/17562864221142924
