@@ -27,3 +27,12 @@ Vineet Punia | Jacqueline Shaia | [Ferreira-Atuesta et al 2021](pdf/ferreira-atu
 
 Describe the most important thing (or things) that you learned from reading Chapter 11 that you didn’t already know from our in-class discussions of matching. In particular, specify how this new material might change your approach to your future work, ideally in the context of an actual study you’re doing (perhaps your project) or a study you hope to do in the future.
 
+## What Should I Be Working On?
+
+1. [Lab 5](https://thomaselove.github.io/500-2023/lab4.html) is due to Canvas on Wednesday 2023-03-29 at 7 PM.
+2. Please read Rosenbaum Chapter 9 and complete the [Essay associated with that chapter](https://thomaselove.github.io/500-2023/essays.html#prompt-for-chapter-9-sensitivity-to-bias) and submit it to our Shared Drive in the **Rosenbaum Essays... Chapter 9** folder by 8 AM on 2023-03-30, so it is there in time for others to see it during our next class. Be sure to include your name in the file name.
+3. OSIA schedule for our next class is [here](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-10-2023-03-30).
+    - Peng, Jack and Alise will be our primary readers, and will [submit their 15-20 slides](https://thomaselove.github.io/500-2023/osia.html#for-the-primary-reviewer) for their presentations to our Shared Google Drive in the **OSIA ... OSIA Presentations for 2023-03-30** folder by 3 PM on Wednesday 2023-03-29. 
+    - Ife, Millenia and Peng (again) will be our second readers, and will [submit their 2-4 slides](https://thomaselove.github.io/500-2023/osia.html#for-the-second-reviewer) for their presentations to our Shared Google Drive in the **OSIA ... OSIA Presentations for 2023-03-30** folder by 8 AM on Thursday 2023-03-30.
+    - Everyone else is responsible to read the [abstracts of the three papers](https://github.com/THOMASELOVE/500-osia-2023/blob/main/claims.md#class-10-2023-03-30) in advance, so that you can contribute more meaningfully to the discussion. 
+4. Your [Project Update](https://thomaselove.github.io/500-2023/proj500.html#the-project-update) is due to Canvas on Wednesday 2023-04-05 at 7 PM.
